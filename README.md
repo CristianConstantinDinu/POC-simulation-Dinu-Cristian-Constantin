@@ -17,6 +17,6 @@ This project demonstrates a Proof of Concept for **entity resolution** of compan
 7. OBS. The data in er_matches.xlsx are sorted by the 'final_score' column in descending order.
 
 ## How to run
-Make sure PyCharm IDE and `pandas` package are installed.
+Make sure PyCharm IDE and `pandas` package are installed. Use the PyCharm IDE to run the Python code.
 
 
