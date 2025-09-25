@@ -1,6 +1,10 @@
 POC-simulation/
 │
-├─ main.py                   # my Python code
-├─ presales_data_sample.csv  # input CSV file
-├─ er_matches.xlsx           # output file with results 
-└─ README.md                 # documentation with explanations
+|- main.py                   # my Python code
+|- presales_data_sample.csv  # input CSV file
+|- er_matches.xlsx           # output file with results 
+|- er_qc_summary.xlsx        # summary report
+|- README.md                 # documentation with explanations
+|
+
+
