@@ -16,6 +16,6 @@ This project demonstrates a Proof of Concept for **entity resolution** of compan
 6. Generates a summary report file with the results.
 
 ## How to run
-Make sure Python and `pandas` are installed.
+Make sure PyCharm IDE and `pandas` package are installed.
 
 
