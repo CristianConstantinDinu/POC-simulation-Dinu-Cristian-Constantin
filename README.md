@@ -14,6 +14,7 @@ This project demonstrates a Proof of Concept for **entity resolution** of compan
 4. Selects the best candidate for each input row.
 5. Marks each row as `matched` or `unmatched`. This method detects duplicates (the same company written in different ways) and measures the correlation between the input and each candidate.
 6. Generates a summary report file with the results.
+OBS. The data in the file er_matches.xlsx are displayed based on 'final_score', in descending order.
 
 ## How to run
 Make sure PyCharm IDE and `pandas` package are installed.
