@@ -1,6 +1,6 @@
 POC-simulation-Dinu Cristian Constantin/
 │
-|- PythonCode                # my Python code
+|- PythonCode.docx           # my Python code
 |- presales_data_sample.csv  # input CSV file
 |- er_matches.xlsx           # output file with results 
 |- er_qc_summary.xlsx        # summary report
