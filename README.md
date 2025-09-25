@@ -12,7 +12,7 @@ This project demonstrates a Proof of Concept for **entity resolution** of compan
    - Website score (10%): has a small role, but helps with discrimination (a company with a website is an additional indicator of legitimacy and differentiation).
    - Threshold 0.55: means that a candidate is accepted as a match only if the final score is at least 55%.
 4. Selects the best candidate for each input row.
-5. Marks each row as `matched` or `unmatched`.
+5. Marks each row as `matched` or `unmatched`. This method detects duplicates (the same company written in different ways) and measures the correlation between the input and each candidate.
 6. Generates a summary report file with the results.
 
 ## How to run
